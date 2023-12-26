@@ -103,7 +103,8 @@ The 2nd California Quantitative Marketing Ph.D. Conference at University of Sout
 
 ## Registration
 This event is by invitation only. Registration will end on DEADLINE.
-**[Register Here](https://docs.google.com/forms/d/e/1FAIpQLSe9vqEPPscsIziADM-i5fSl1cHyTUs05NZHYhXhrbsP-mQbMA/viewform?usp=sf_link)**
+**Register Here**
+<iframe src="https://docs.google.com/forms/d/e/1FAIpQLScYEjcZOQ5UTORU12cyqSqKpthMmP-f8wtZU1nFVc8vYwG9Sw/viewform?embedded=true" width="640" height="1402" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
 
 
 ## Travel, Accommodation, Directions
