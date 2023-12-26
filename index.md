@@ -10,7 +10,9 @@ table {
 table, th, td {
   border: 1px solid black;
   text-align: center; /* Aligns the text to the center */
+  padding: 8px; /* Add some padding */
 }
+
 </style>
 
 ## USC Marshall School of Business
