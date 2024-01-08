@@ -18,11 +18,11 @@ table, th, td {
 ## USC Marshall School of Business
 ## Day Month 2024.
 
-The 2nd California Quantitative Marketing Ph.D. Conference at University of Southern California will bring together Ph.D. students and faculty across five California schools in the field of quantitative marketing. The conference provides a forum for the presentation and discussion of student research. Student presenters will have the opportunity to share their work and receive feedback from peers and faculty members. Student discussants will get a chance to present a careful discussion of a paper, talking about its strengths and its contribution to the literature while also providing suggestions for improvement. The conference program also includes a panel discussion with faculty and a social event at the end of the day, allowing for casual conversations and the development of new friendships. Overall, the conference aims to provide early opportunities for Ph.D. students to engage in research discussions and forge connections across the five California schools.
+The 2nd California Quantitative Marketing Ph.D. Conference at University of Southern California will again bring together Ph.D. students and faculty across five California schools in the field of quantitative marketing. The conference provides a forum for the presentation and discussion of student research. Student presenters will have the opportunity to share their work and receive feedback from peers and faculty members. Student discussants will get a chance to present a careful discussion of a paper, talking about its strengths and its contribution to the literature while also providing suggestions for improvement. The conference program also includes a panel discussion with faculty and a social event at the end of the day, allowing for casual conversations and the development of new friendships. Overall, the conference aims to provide early opportunities for Ph.D. students to engage in research discussions and forge connections across the five California schools.
 
 
 ## Faculty Coordinator
-- [Davide Proserpio](https://www.marshall.usc.edu/personnel/davide-proserpio) (Associate Professor of Marketing)
+- [Max Wei](https://www.marshall.usc.edu/personnel/yanhao-max-wei) (Associate Professor of Marketing)
 
 ## Ph.D. Student Organizers
 - [Ignacio Riveros](https://www.marshall.usc.edu/personnel/ignacio-riveros) (Ph.D. Candidate)
