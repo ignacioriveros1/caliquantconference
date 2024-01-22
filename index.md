@@ -5,12 +5,17 @@ layout: default
 <style>
 table {
   border-collapse: collapse;
+  Table-Layout:fixed
 }
 
 table, th, td {
   border: 1px solid black;
   text-align: center; /* Aligns the text to the center */
   padding: 8px; /* Add some padding */
+}
+
+@media (max-width: 800px) {
+  /* CSS that should be displayed if width is equal to or less than 800px goes here */
 }
 
 </style>
