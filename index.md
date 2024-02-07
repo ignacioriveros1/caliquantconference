@@ -21,7 +21,7 @@ table, th, td {
 </style>
 
 ## USC Marshall School of Business
-## Day Month 2024.
+## Saturday April 13th 2024.
 
 The 2nd California Quantitative Marketing Ph.D. Conference at University of Southern California will again bring together Ph.D. students and faculty across five California schools in the field of quantitative marketing. The conference provides a forum for the presentation and discussion of student research. Student presenters will have the opportunity to share their work and receive feedback from peers and faculty members. Student discussants will get a chance to present a careful discussion of a paper, talking about its strengths and its contribution to the literature while also providing suggestions for improvement. The conference program also includes a panel discussion with faculty and a social event at the end of the day, allowing for casual conversations and the development of new friendships. Overall, the conference aims to provide early opportunities for Ph.D. students to engage in research discussions and forge connections across the five California schools.
 
@@ -37,7 +37,7 @@ The 2nd California Quantitative Marketing Ph.D. Conference at University of Sout
 ## Program
 <table>
   <tr>
-    <th colspan="2">Date</th>
+    <th colspan="2">April 13th</th>
   </tr>
   <tr>
     <td> <b>8:30am - 9:00am</b> </td>
@@ -108,7 +108,7 @@ The 2nd California Quantitative Marketing Ph.D. Conference at University of Sout
 
 ## Registration
 This event is by invitation only. Registration will end on DEADLINE.
-**[Register Here](https://forms.gle/ZiTrCZix6aGUTnwj9)**
+**[Register Here](https://docs.google.com/forms/d/e/1FAIpQLSe9vqEPPscsIziADM-i5fSl1cHyTUs05NZHYhXhrbsP-mQbMA/viewform?usp=sharing)**
 
 
 
