@@ -35,79 +35,41 @@ The 2nd California Quantitative Marketing Ph.D. Conference at University of Sout
 - [Poet Larsen](https://www.marshall.usc.edu/personnel/poet-larsen)  (Ph.D. Candidate)
 
 ## Program
-<table>
-  <tr>
-    <th colspan="2">April 13th</th>
-  </tr>
-  <tr>
-    <td> <b>8:30am - 9:00am</b> </td>
-    <td>	Registration & Breakfast <br>
-          Room , <br>
-          Building</td>
-  </tr>
-  <tr>
-    <td> <b>9:00am - 9:15am</b> </td>
-    <td> Welcome Remarks </td>
-  </tr>
-  <tr>
-    <td> <b>9:15:am - 10:15am</b> </td>
-    <td> <b>Speaker</b>: <a href="https://www.example.com">Name, Institution</a> <br>
-        <b>Paper</b>: <a href="https://www.example.com">Insert Paper Title</a> <br>
-        <b>Discussant</b>: <a href="https://www.example.com">Name, Institution</a> </td>
-  </tr>
-  <tr>
-    <td> <b>10:15am - 10:30am</b> </td>
-    <td> Coffee Break </td>
-  </tr>
-  <tr>
-    <td> <b>10:30am - 11:30am</b> </td>
-    <td> <b>Speaker</b>: <a href="https://www.example.com">Name, Institution</a> <br>
-        <b>Paper</b>: <a href="https://www.example.com">Insert Paper Title</a> <br>
-        <b>Discussant</b>: <a href="https://www.example.com">Name, Institution</a> </td>
-  </tr>
-  <tr>
-    <td> <b>11:30am - 12:30pm</b> </td>
-    <td> <b>Speaker</b>: <a href="https://www.example.com">Name, Institution</a> <br>
-        <b>Paper</b>: <a href="https://www.example.com">Insert Paper Title</a> <br>
-        <b>Discussant</b>: <a href="https://www.example.com">Name, Institution</a> </td>
-  </tr>
-  <tr>
-    <td> <b>12:30pm – 2:00pm</b> </td>
-    <td> Lunch <br> Place </td>
-  </tr>
-  <tr>
-    <td> <b>2:00pm - 3:00pm</b> </td>
-    <td> <b>Speaker</b>: <a href="https://www.example.com">Name, Institution</a> <br>
-        <b>Paper</b>: <a href="https://www.example.com">Insert Paper Title</a> <br>
-        <b>Discussant</b>: <a href="https://www.example.com">Name, Institution</a> </td>
-  </tr>
-  <tr>
-    <td> <b>3:00pm - 3:30pm</b> </td>
-    <td> Coffee Break </td>
-  </tr>
-  <tr>
-    <td> <b>3:30pm - 4:30pm</b> </td>
-    <td> <b>Speaker</b>: <a href="https://www.example.com">Name, Institution</a> <br>
-        <b>Paper</b>: <a href="https://www.example.com">Insert Paper Title</a> <br>
-        <b>Discussant</b>: <a href="https://www.example.com">Name, Institution</a> </td>
-  </tr>
-  <tr>
-    <td> <b>4:30pm - 5:30pm</b> </td>
-    <td> <b>Panel</b>: Name of the panel <br>
-        <b>Panelist</b>: <a href="https://www.example.com">Name, Institution</a> <br>
-        <b>Panelist</b>: <a href="https://www.example.com">Name, Institution</a> <br>
-        <b>Panelist</b>: <a href="https://www.example.com">Name, Institution</a> <br>
-    </td>
-  </tr>
-  <tr>
-    <td> <b>5:30pm – 7:30pm</b> </td>
-    <td> Social hour + Dinner <br> Place </td>
-  </tr>
-</table>
-
+- **8:30am - 9:00am -- Registration & Breakfast** 
+- **9:00am - 9:15am -- Welcome Remarks** 
+- **9:15am - 10:15am -- Presentation** 
+  - [Insert Paper Title](https://www.example.com)
+  - Speaker: [Ignacio Riveros, USC](https://ignacioriveros1.github.io/) 
+  - Discussant: - [Ameeqa Ali, Stanford](https://www.gsb.stanford.edu/programs/phd/academic-experience/students/ameeqa-ali)
+- **10:15am - 10:30am -- Coffee Break** 
+- **10:30am - 11:30am -- Presentation**
+  - [Ahead of the Call: Targeted Behavior Support in Small Fintech Merchants in Emerging Market](https://www.example.com)
+  - Speaker: [Yixiang Xu, UC Berkeley](https://www.linkedin.com/in/yixiangxu/)
+  - Discussant: [Name, Institution](https://www.example.com)
+- **11:30am - 12:30pm -- Presentation**
+  - [Insert Paper Title](https://www.example.com)
+  - Speaker: [Tony Kukavica, Stanford](https://www.gsb.stanford.edu/programs/phd/academic-experience/students/tony-kukavica)
+  - Discussant: [Mengyao Huang, UC Berkeley](https://www.linkedin.com/in/mengyao-huang-860ab1136/)
+- **12:30pm – 2:00pm  -- Lunch**
+- **2:00pm - 3:00pm -- Presentation**:
+  - [Insert Paper Title](https://www.example.com) 
+  - Speaker: [Peiyao Li, UC Berkeley](https://www.linkedin.com/in/peiyao-li-a823a5213/)
+  - Discussant: [Name, Institution](https://www.example.com)
+- **3:00pm - 3:30pm -- Coffee Break**
+- **3:30pm - 4:30pm -- Presentation** 
+  - [Insert Paper Title](https://www.example.com)
+  - Speaker: [Name, Institution](https://www.example.com)
+  - Discussant: [Aparna Jayaram, USC](https://www.marshall.usc.edu/personnel/aparna-jayaram)
+- **4:30pm - 5:30pm -- Panel**:
+  - Name of the panel
+  - [Panelist Name, Institution](https://www.example.com)
+  - [Panelist Name, Institution](https://www.example.com)
+  - [Panelist Name, Institution](https://www.example.com)
+- **5:30pm – 7:30pm -- Social hour + Dinner**:
+  - [The Lab](https://maps.app.goo.gl/KVzDAbFmSbCSTm2dA)
 
 ## Registration
-This event is by invitation only. Registration will end on DEADLINE.
+This event is by invitation only.
 **[Register Here](https://docs.google.com/forms/d/e/1FAIpQLSe9vqEPPscsIziADM-i5fSl1cHyTUs05NZHYhXhrbsP-mQbMA/viewform?usp=sharing)**
 
 
@@ -119,7 +81,7 @@ This event is by invitation only. Registration will end on DEADLINE.
 - Hollywood Burbank Airport (BUR)
 
 **Lodging**
-- [USC Hotel](https://uschotel.usc.edu), 3540 S Figueroa St, Los Angeles, CA 90007.
+- [USC Hotel](https://uschotel.usc.edu), 3540 S Figueroa St, Los Angeles, CA 90007. [Discount code valid until March 22nd, 2024](https://be.synxis.com/?adult=1&arrive=2024-04-12&chain=24206&child=0&currency=USD&depart=2024-04-13&group=2404MARKET&hotel=5374&level=hotel&locale=en-US&rooms=1).
 
 **Venue**:
 The workshop will take place at [Specific Building/Room].
