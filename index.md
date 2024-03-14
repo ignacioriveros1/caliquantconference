@@ -38,34 +38,15 @@ The 2nd California Quantitative Marketing Ph.D. Conference at University of Sout
 - **8:30am - 9:00am -- Registration & Breakfast** 
 - **9:00am - 9:15am -- Welcome Remarks** 
 - **9:15am - 10:15am -- Presentation** 
-  - [Insert Paper Title](https://www.example.com)
-  - Speaker: [Ignacio Riveros, USC](https://ignacioriveros1.github.io/) 
-  - Discussant: - [Ameeqa Ali, Stanford](https://www.gsb.stanford.edu/programs/phd/academic-experience/students/ameeqa-ali)
 - **10:15am - 10:30am -- Coffee Break** 
 - **10:30am - 11:30am -- Presentation**
-  - [Ahead of the Call: Targeted Behavior Support in Small Fintech Merchants in Emerging Market](https://www.example.com)
-  - Speaker: [Yixiang Xu, UC Berkeley](https://www.linkedin.com/in/yixiangxu/)
-  - Discussant: [Name, Institution](https://www.example.com)
 - **11:30am - 12:30pm -- Presentation**
-  - [Insert Paper Title](https://www.example.com)
-  - Speaker: [Tony Kukavica, Stanford](https://www.gsb.stanford.edu/programs/phd/academic-experience/students/tony-kukavica)
-  - Discussant: [Mengyao Huang, UC Berkeley](https://www.linkedin.com/in/mengyao-huang-860ab1136/)
 - **12:30pm – 2:00pm  -- Lunch**
-- **2:00pm - 3:00pm -- Presentation**:
-  - [Insert Paper Title](https://www.example.com) 
-  - Speaker: [Peiyao Li, UC Berkeley](https://www.linkedin.com/in/peiyao-li-a823a5213/)
-  - Discussant: [Name, Institution](https://www.example.com)
+- **2:00pm - 3:00pm -- Presentation**
 - **3:00pm - 3:30pm -- Coffee Break**
 - **3:30pm - 4:30pm -- Presentation** 
-  - [Insert Paper Title](https://www.example.com)
-  - Speaker: [Name, Institution](https://www.example.com)
-  - Discussant: [Aparna Jayaram, USC](https://www.marshall.usc.edu/personnel/aparna-jayaram)
-- **4:30pm - 5:30pm -- Panel**:
-  - Name of the panel
-  - [Panelist Name, Institution](https://www.example.com)
-  - [Panelist Name, Institution](https://www.example.com)
-  - [Panelist Name, Institution](https://www.example.com)
-- **5:30pm – 7:30pm -- Social hour + Dinner**:
+- **4:30pm - 5:30pm -- Panel**
+- **5:30pm – 7:30pm -- Social hour + Dinner**
   - [The Lab](https://maps.app.goo.gl/KVzDAbFmSbCSTm2dA)
 
 ## Registration
