@@ -26,13 +26,14 @@ table, th, td {
 The 2nd California Quantitative Marketing Ph.D. Conference at University of Southern California will again bring together Ph.D. students and faculty across five California schools in the field of quantitative marketing. The conference provides a forum for the presentation and discussion of student research. Student presenters will have the opportunity to share their work and receive feedback from peers and faculty members. Student discussants will get a chance to present a careful discussion of a paper, talking about its strengths and its contribution to the literature while also providing suggestions for improvement. The conference program also includes a panel discussion with faculty and a social event at the end of the day, allowing for casual conversations and the development of new friendships. Overall, the conference aims to provide early opportunities for Ph.D. students to engage in research discussions and forge connections across the five California schools.
 
 
-## Faculty Coordinator
-- [Max Wei](https://www.marshall.usc.edu/personnel/yanhao-max-wei) (Associate Professor of Marketing)
-
 ## Ph.D. Student Organizers
 - [Ignacio Riveros](https://www.marshall.usc.edu/personnel/ignacio-riveros) (Ph.D. Candidate)
 - [Tal Shoshani](https://www.marshall.usc.edu/personnel/tal-shoshani)  (Ph.D. Candidate)
 - [Poet Larsen](https://www.marshall.usc.edu/personnel/poet-larsen)  (Ph.D. Candidate)
+
+## Faculty Coordinator
+- [Max Wei](https://www.marshall.usc.edu/personnel/yanhao-max-wei) (Associate Professor of Marketing)
+
 
 ## Program
 - **8:30am - 9:00am -- Registration & Breakfast** 
@@ -45,8 +46,9 @@ The 2nd California Quantitative Marketing Ph.D. Conference at University of Sout
 - **2:00pm - 3:00pm -- Presentation**
 - **3:00pm - 3:30pm -- Coffee Break**
 - **3:30pm - 4:30pm -- Presentation** 
-- **4:30pm - 5:30pm -- Panel**
-- **5:30pm – 7:30pm -- Social hour + Dinner**
+- **4:30pm - 5:30pm -- Panel**: Moderator: [Poet Larsen](https://www.marshall.usc.edu/personnel/poet-larsen)
+- **5:30pm - 6:00pm -- Networking + Walk to The Lab**
+- **6:00pm – 8:00pm -- Social hour + Snacks**
   - [The Lab](https://maps.app.goo.gl/KVzDAbFmSbCSTm2dA)
 
 ## Registration
