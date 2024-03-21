@@ -17,19 +17,20 @@ Abstract:
 
 
 Tony Kukavica: Stanford
-Tittle: 
+Tittle: Hot Hand Effects
 
 Kohei Hayashida, UCSD
-Tittle:Learning to reduce retail food waste.
+Tittle: Learning to reduce retail food waste.
 Abstract:
 Perishable food waste is a significant concern for retail firms, impacting both profitability and the environment. This study provides novel evidence from Japanese supermarket transactions and comprehensive waste records (2014-2020) across 93 newly opened stores, showing waste rates decline over time after a store's opening (a 67% reduction over a five-year period). These waste-rate reductions cannot be fully explained by changes in the first or second moments of demand, nor price/cost changes, and thus challenge the conventional newsvendor model commonly used in marketing and operations research. We suggest that these trends align more closely with the stores' increasing experience and learning, leading to reduced econometric uncertainty in managing perishables. Our counterfactual simulations focus on quantifying the potential reduction in food waste achievable through enhanced data integration, leveraging past experiences of similar stores.
 
 Discussants
 [Aparna Jayaram, USC](https://www.marshall.usc.edu/personnel/aparna-jayaram)
 [Ameeqa Ali, Stanford](https://www.gsb.stanford.edu/programs/phd/academic-experience/students/ameeqa-ali)
-[Mengyao Huang, UC Berkeley](https://www.linkedin.com/in/mengyao-huang-860ab1136/)
-[Eunsun Kim, UCLA](https://www.anderson.ucla.edu/degrees/phd-program/areas-of-study/marketing/meet-the-students/eunsun-kim)
-[Rui A, UCLA](https://www.anderson.ucla.edu/degrees/phd-program/areas-of-study/marketing/meet-the-students/rui-a)
+[Mengyao Huang, UC Berkeley](https://www.linkedin.com/in/mengyao-huang-860ab1136/): My research interest is around Machine Learning applications in Digital Marketing; A/B testing and experiments design and also Bayesian Inference.
+[Eunsun Kim, UCLA](https://www.anderson.ucla.edu/degrees/phd-program/areas-of-study/marketing/meet-the-students/eunsun-kim): I am broadly interested in algorithmic pricing, and I am familiar with dynamic programming and reinforcement learning. 
+[Rui A, UCLA](https://www.anderson.ucla.edu/degrees/phd-program/areas-of-study/marketing/meet-the-students/rui-a): I’m interested in digital platforms, misinformation, consumer search and empirical IO in general.
+
 
 
 ## Program
@@ -43,21 +44,21 @@ Discussants
 - **10:30am - 11:30am -- Presentation**
   - [Ahead of the Call: Targeted Behavior Support in Small Fintech Merchants in Emerging Market](https://www.example.com)
   - Speaker: [Yixiang Xu, UC Berkeley](https://www.linkedin.com/in/yixiangxu/)
-  - Discussant: [Name, Institution](https://www.example.com)
+  - Discussant: [Eunsun Kim, UCLA](https://www.anderson.ucla.edu/degrees/phd-program/areas-of-study/marketing/meet-the-students/eunsun-kim)
 - **11:30am - 12:30pm -- Presentation**
-  - [Insert Paper Title](https://www.example.com)
+  - [Hot Hands Effect](https://www.example.com)
   - Speaker: [Tony Kukavica, Stanford](https://www.gsb.stanford.edu/programs/phd/academic-experience/students/tony-kukavica)
   - Discussant: [Mengyao Huang, UC Berkeley](https://www.linkedin.com/in/mengyao-huang-860ab1136/)
 - **12:30pm – 2:00pm  -- Lunch**
 - **2:00pm - 3:00pm -- Presentation**:
   - [How AI outperforms humans at creative idea generation](https://www.example.com) 
   - Speaker: [Peiyao Li, UC Berkeley](https://www.linkedin.com/in/peiyao-li-a823a5213/)
-  - Discussant: [Name, Institution](https://www.example.com)
+  - Discussant: [Aparna Jayaram, USC](https://www.marshall.usc.edu/personnel/aparna-jayaram)
 - **3:00pm - 3:30pm -- Coffee Break**
 - **3:30pm - 4:30pm -- Presentation** 
   - [Learning to reduce retail food waste](https://www.example.com)
   - Speaker: [Kohei Hayashida, UCSD](https://www.linkedin.com/in/kohei-hayashida-5268b4221/)
-  - Discussant: [Aparna Jayaram, USC](https://www.marshall.usc.edu/personnel/aparna-jayaram)
+  - Discussant: [Rui A, UCLA](https://www.anderson.ucla.edu/degrees/phd-program/areas-of-study/marketing/meet-the-students/rui-a)
 - **4:30pm - 5:30pm -- Panel**:
   - Name of the panel
   - [Panelist Name, Institution](https://www.example.com)
@@ -65,3 +66,37 @@ Discussants
   - [Panelist Name, Institution](https://www.example.com)
 - **5:30pm – 7:30pm -- Social hour + Dinner**:
   - [The Lab](https://maps.app.goo.gl/KVzDAbFmSbCSTm2dA)
+
+
+
+Polarized Nation, or Not? Whether and How Brands' Sociopolitical Affiliations Shape Consumers' Store Visits]
+Speaker: Ignacio Riveros, USC
+Discussant: - Ameeqa Ali, Stanford
+Abstract: 
+Interest of Discussant:
+
+Ahead of the Call: Targeted Behavior Support in Small Fintech Merchants in Emerging Market
+Speaker: Yixiang Xu, UC Berkeley
+Discussant: Eunsun Kim, UCLA
+Abstract: 
+Interest of Discussant: I am broadly interested in algorithmic pricing, and I am familiar with dynamic programming and reinforcement learning.
+
+Hot Hands Effect
+Speaker: Tony Kukavica, Stanford
+Discussant: Mengyao Huang, UC Berkeley
+Abstract: 
+Interest of Discussant: My research interest is around Machine Learning applications in Digital Marketing; A/B testing and experiments design and also Bayesian Inference.
+
+How AI outperforms humans at creative idea generation
+Speaker: Peiyao Li, UC Berkeley
+Discussant: Aparna Jayaram, USC
+Abstract: This paper investigates the creative potential of artificial intelligence (AI), specifically the GPT4 large language model, in generating new product ideas. We first demonstrate that GPT4 can generate ideas that are rated as more creative than those generated by laypeople and creative professionals working under strong financial incentives. We then propose a novel text analysis methodology that we use to determine what specifically GPT4 is doing to achieve these superior results. We develop measures of two types of creativity: creative form (i.e., the language used to describe an idea being more unusual or unique) and creative substance (i.e., the idea itself is more novel). We find that GPT4 outperforms humans in both types of creativity. Finally, we show that using GPT4 to simply re-write ideas originally written by humans results in those ideas being rated as significantly more creative and that the improvement is explained by creativity in form. These results have immediate implications for managers, researchers, and practitioners in various fields, as integrating AI systems may optimize creative processes, save resources, and accelerate innovation cycles.
+Interest of Discussant:
+
+
+Learning to reduce retail food waste
+Speaker: Kohei Hayashida, UCSD
+Discussant: Rui A, UCLA
+Abstract: Perishable food waste is a significant concern for retail firms, impacting both profitability and the environment. This study provides novel evidence from Japanese supermarket transactions and comprehensive waste records (2014-2020) across 93 newly opened stores, showing waste rates decline over time after a store's opening (a 67% reduction over a five-year period). These waste-rate reductions cannot be fully explained by changes in the first or second moments of demand, nor price/cost changes, and thus challenge the conventional newsvendor model commonly used in marketing and operations research. We suggest that these trends align more closely with the stores' increasing experience and learning, leading to reduced econometric uncertainty in managing perishables. Our counterfactual simulations focus on quantifying the potential reduction in food waste achievable through enhanced data integration, leveraging past experiences of similar stores.
+Interest of Discussant: I’m interested in digital platforms, misinformation, consumer search and empirical IO in general.
+
