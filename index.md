@@ -68,7 +68,7 @@ This event is by invitation only. Please register by **April 5th, 2024**.
 
 **Venue**:
 The workshop will take place at **Fertita Hall (JFF) - Room TBD**.
-<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d1094.6502222128988!2d-118.28313915891741!3d34.01869581426696!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x80c2c7e222515c07%3A0xbe6d9024de87b950!2sFertitta%20Hall%20-%20JFF!5e0!3m2!1ses-419!2sus!4v1711042239857!5m2!1ses-419!2sus" width="400" height="300" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d1094.6502222128988!2d-118.28313915891741!3d34.01869581426696!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x80c2c7e222515c07%3A0xbe6d9024de87b950!2sFertitta%20Hall%20-%20JFF!5e0!3m2!1ses-419!2sus!4v1711042239857!5m2!1ses-419!2sus" height="100%" width="100%" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 
 **Parking**:
 Parking is available on campus. Please check [USC's parking website](https://transnet.usc.edu/index.php/daily-and-hourly-parking/) for rates and additional information.
