@@ -28,7 +28,6 @@ Discussants
 [Aparna Jayaram, USC](https://www.marshall.usc.edu/personnel/aparna-jayaram)
 [Ameeqa Ali, Stanford](https://www.gsb.stanford.edu/programs/phd/academic-experience/students/ameeqa-ali)
 [Mengyao Huang, UC Berkeley](https://www.linkedin.com/in/mengyao-huang-860ab1136/)
-[Name, UCSD](https://www.example.com)
 [Eunsun Kim, UCLA](https://www.anderson.ucla.edu/degrees/phd-program/areas-of-study/marketing/meet-the-students/eunsun-kim)
 [Rui A, UCLA](https://www.anderson.ucla.edu/degrees/phd-program/areas-of-study/marketing/meet-the-students/rui-a)
 

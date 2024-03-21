@@ -52,7 +52,7 @@ The 2nd California Quantitative Marketing Ph.D. Conference at University of Sout
   - [The Lab](https://maps.app.goo.gl/KVzDAbFmSbCSTm2dA)
 
 ## Registration
-This event is by invitation only.
+This event is by invitation only. Please register by **April 5th, 2024**.
 **[Register Here](https://docs.google.com/forms/d/e/1FAIpQLSe9vqEPPscsIziADM-i5fSl1cHyTUs05NZHYhXhrbsP-mQbMA/viewform?usp=sharing)**
 
 
@@ -67,12 +67,10 @@ This event is by invitation only.
 - [USC Hotel](https://uschotel.usc.edu), 3540 S Figueroa St, Los Angeles, CA 90007. [Discount code valid until March 22nd, 2024](https://be.synxis.com/?adult=1&arrive=2024-04-12&chain=24206&child=0&currency=USD&depart=2024-04-13&group=2404MARKET&hotel=5374&level=hotel&locale=en-US&rooms=1).
 
 **Venue**:
-The workshop will take place at [Specific Building/Room].
-<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d5485.094901784897!2d-118.28909116605334!3d34.018574839525556!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x80c2c7e61a5fe2a5%3A0xd5c93aafa6055e2e!2sEscuela%20de%20negocios%20Marshall!5e0!3m2!1ses-419!2sus!4v1701995666735!5m2!1ses-419!2sus" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe> 
+The workshop will take place at **room**.
 
 **Parking**:
-Parking is available on campus. Participants can use [Parking Structure Name] located at [Address].
-Please check USC's parking website for rates and additional information.
+Parking is available on campus. Please check [USC's parking website](https://transnet.usc.edu/index.php/daily-and-hourly-parking/) for rates and additional information.
 
 **Public Transportation**:
 Metro: USC is accessible via the Metro Expo Line. The Expo Park/USC is the closest station to campus.
