@@ -60,7 +60,7 @@ The 2nd California Quantitative Marketing Ph.D. Conference at University of Sout
 - **3:30pm - 4:30pm -- Presentation**
   - [Learning to reduce retail food waste](https://www.example.com)
   - Speaker: [Kohei Hayashida, UCSD](https://www.linkedin.com/in/kohei-hayashida-5268b4221/)
-  - Discussant: [Rui A, UCLA](https://www.anderson.ucla.edu/degrees/phd-program/areas-of-study/marketing/meet-the-students/rui-a)
+  - Discussant: [Zen Ye, UCLA](https://www.anderson.ucla.edu/degrees/phd-program/areas-of-study/marketing/meet-the-students/zen-ye)
 - **4:30pm - 5:30pm -- Panel**: Moderator: [Poet Larsen](https://www.marshall.usc.edu/personnel/poet-larsen)
 - **5:30pm - 6:00pm -- Networking + Walk to The Lab**
 - **6:00pm – 8:00pm -- Social hour + Snacks**
