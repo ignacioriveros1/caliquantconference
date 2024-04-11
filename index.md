@@ -41,7 +41,7 @@ The 2nd California Quantitative Marketing Ph.D. Conference at University of Sout
 - **9:15am - 10:15am -- Presentation** 
   - [Polarized Nation, or Not? Whether and How Brands' Sociopolitical Affiliations Shape Consumers' Store Visits](https://www.example.com)
   - Speaker: [Ignacio Riveros, USC](https://ignacioriveros1.github.io/) 
-  - Discussant: - [Ameeqa Ali, Stanford](https://www.gsb.stanford.edu/programs/phd/academic-experience/students/ameeqa-ali)
+  - Discussant: [Ameeqa Ali, Stanford](https://www.gsb.stanford.edu/programs/phd/academic-experience/students/ameeqa-ali)
 - **10:15am - 10:30am -- Coffee Break** 
 - **10:30am - 11:30am -- Presentation**
   - [Ahead of the Call: Targeted Behavior Support in Small Fintech Merchants in Emerging Market](https://www.example.com)
@@ -62,6 +62,10 @@ The 2nd California Quantitative Marketing Ph.D. Conference at University of Sout
   - Speaker: [Kohei Hayashida, UCSD](https://www.linkedin.com/in/kohei-hayashida-5268b4221/)
   - Discussant: [Zen Ye, UCLA](https://www.anderson.ucla.edu/degrees/phd-program/areas-of-study/marketing/meet-the-students/zen-ye)
 - **4:30pm - 5:30pm -- Panel**: Moderator: [Poet Larsen](https://www.marshall.usc.edu/personnel/poet-larsen)
+  - [Sridhar Narayanan](https://www.gsb.stanford.edu/faculty-research/faculty/sridhar-narayanan), Stanford 
+  - [Robert Evan Sanders](https://www.robertesanders.com/), UCSD
+  - [Elisabeth Honka](https://www.anderson.ucla.edu/faculty-and-research/marketing/faculty/honka), UCLA
+  - [Siddarth Sivaramakrishnan](https://www.marshall.usc.edu/personnel/sivaramakrishnan-siddarth), USC
 - **5:30pm - 6:00pm -- Networking + Walk to The Lab**
 - **6:00pm – 8:00pm -- Social hour + Snacks**
   - [The Lab](https://maps.app.goo.gl/KVzDAbFmSbCSTm2dA)
